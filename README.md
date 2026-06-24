@@ -1,5 +1,12 @@
 # 💫 About Me:
-* 📊 Career switcher focused on Data Analytics, Machine Learning, and AI applications.<br><br>* 🐍 Skilled in Python, SQL, Pandas, Scikit-learn, Streamlit, and data visualization.<br><br>* 🤖 Developed AI-powered projects including DataSentry AI and CekFakta AI.<br><br>* 📈 Experienced in data analysis, predictive modeling, and machine learning workflows.<br><br>* ⚖️ Building projects that emphasize data quality, governance, transparency, and fairness.<br><br>* 🔍 Interested in solving business problems through data-driven decision making.<br><br>* 🌱 Currently expanding expertise in Generative AI, Responsible AI, and cloud-based AI services.<br><br>* 📝 Documenting projects and insights through GitHub repositories and technical articles on Medium.<br>
+* 📊 Career switcher focused on Data Analytics, Machine Learning, and AI applications.<br><br>
+* 🐍 Skilled in Python, SQL, Pandas, Scikit-learn, Streamlit, and data visualization.<br><br>
+* 🤖 Developed AI-powered projects including DataSentry AI and CekFakta AI.<br><br>
+* 📈 Experienced in data analysis, predictive modeling, and machine learning workflows.<br><br>
+* ⚖️ Building projects that emphasize data quality, governance, transparency, and fairness.<br><br>
+* 🔍 Interested in solving business problems through data-driven decision making.<br><br>
+* 🌱 Currently expanding expertise in Generative AI, Responsible AI, and cloud-based AI services.<br><br>
+* 📝 Documenting projects and insights through GitHub repositories and technical articles on Medium.<br>
 
 
 ## 🌐 Socials:
